@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 👨‍💻 Website: www.jasonross.dev
 - ☕️ Coffee: Folgers Classic Roast
-- ⚡ Fun fact: I know a lot about SharePoint
+- ⚡ Fun fact: I know a couple things about SharePoint
